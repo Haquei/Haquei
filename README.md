@@ -16,6 +16,9 @@
 
 
 ####
+Check out this links-
+https://haquei-x.itch.io/
+https://www.youtube.com/channel/UC7k-AaQDqVfToU-ynyxEaMw
 
 <div align="center">
   
