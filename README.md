@@ -2,7 +2,7 @@
 <div align="center" width="50">
     <img src="https://github.com/Haquei/Haquei/blob/main/img/Gaming-Download-PNG-Image.png" width="160" />
 </div>
------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
  Hey! I am Md. Hasibul Huq Shanto, a Computer Science and engineering student. All I do is based on video games. playing video games is a hobby, creating video games is a passion. 
 
 <p>working Software: Unity 3d Engine, Adobe Photoshop, Adobe Illustrator, Adobe XD, Adobe premiere pro. programming/Scripting language: C, c++, C#, Java, Python.</p>
